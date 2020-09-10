@@ -30,6 +30,8 @@ gem 'bootsnap', '>= 1.4.2', require: false
 
 gem 'carrierwave', '~> 2.0'
 
+gem 'fog-aws'
+
 gem 'mini_magick'
 
 group :development, :test do
